@@ -23,3 +23,4 @@
     >>> git checkout "commit hash"
 
 7. Creating branch:
+        I am awesome
