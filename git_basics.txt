@@ -22,5 +22,14 @@
 6. Go back to required commit:
     >>> git checkout "commit hash"
 
-7. Creating branch:
-        I am awesome
+7. Going back to master branch:
+    >>> git checkout master
+
+8. Creating branch:
+    >>> git branch "branch name"
+    >>> git checkout "our branch"
+
+9. Meging the branched files to master
+    >>> git merge "branch name"
+
+
