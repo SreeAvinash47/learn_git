@@ -32,4 +32,8 @@
 9. Meging the branched files to master
     >>> git merge "branch name"
 
+10. Adding to github:
+    >>> git remote add origin ""
+    >>> git push -u origin master
+
 
