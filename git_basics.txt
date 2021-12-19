@@ -1,0 +1,25 @@
+                                    GIT
+                                    ---
+1. Configuring your name and email:
+    >>> git config --global user.name "Your name"
+    >>> git config --global user.email "Your email"
+
+2. Initialisation:
+    >>> git init
+
+3. checking teh status of repo:
+    >>> git status
+
+4. Add to staging and then commit
+    >>> git add fileName
+    >>> git add .
+
+    >>> git commit -m "Commit message"
+
+5. For commit history:
+    >>> git log
+
+6. Go back to required commit:
+    >>> git checkout "commit hash"
+
+7. Creating branch:
